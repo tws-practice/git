@@ -16,6 +16,8 @@ https://help.github.com
 
 https://try.github.io
 
+http://pcottle.github.io/learnGitBranching/
+
 ## Git使用最佳实践
 
 [Version Control Best Practices](http://www.git-tower.com/learn/ebook/command-line/appendix/best-practices)
